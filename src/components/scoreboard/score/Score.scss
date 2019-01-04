@@ -1,0 +1,33 @@
+.Container-Score{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+.Container-Score__Player{
+    height: 2.5rem; 
+    margin: 0 1rem;
+    padding: 0 1rem;
+    border-bottom: 0.15rem solid rgba(201, 201, 201, 0.5);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    font-size: 1.5rem;
+    letter-spacing: 4rem;
+}
+
+.Container-Score__Player--Highlighted{
+    border-bottom: 0.15rem solid #14bdac;
+}
