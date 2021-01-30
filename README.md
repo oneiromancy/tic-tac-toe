@@ -2,7 +2,7 @@
 
 ### Description
 
-The visual design of my [tic-tac-toe](https://oneiromancy.github.io/tictactoe/) game is based on Google's version. The app contains features such as a scoreboard, a player on turn visual aid, a gameover message and a restart button.
+The visual design of my [tic-tac-toe](https://oneiromancy.github.io/tic-tac-toe/) game is based on Google's version. The app contains features such as a scoreboard, a player on turn visual aid, a gameover message and a restart button.
 
 ### Software Design
 
